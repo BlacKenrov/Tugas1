@@ -3,3 +3,6 @@ Umur : 21
 Jenis kelamin : laki laki
 status : taken
 hobi : main game, tidur, olahraga
+kegiatan sehari hari : Kuliah, GYM, Main
+project sejauh ini : pembuatan game VR, Pembuatan game berbasis story 
+cita cita : menjadi programmer ternama, dapat membuat game yang dikenal dunia
